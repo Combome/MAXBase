@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MAXBase_Example' do
+  pod 'MAXBase', :path => '../'
+
+  target 'MAXBase_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
