@@ -1,0 +1,6 @@
+framework module Pods_MAXBase_Tests {
+  umbrella header "Pods-MAXBase_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

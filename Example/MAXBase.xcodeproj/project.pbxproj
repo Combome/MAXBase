@@ -42,10 +42,10 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		7289D4161FCEE9896CC278C8 /* Pods-MAXBase_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MAXBase_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-MAXBase_Example/Pods-MAXBase_Example.release.xcconfig"; sourceTree = "<group>"; };
 		8073FE1F7E05B6BDC1A7752C /* Pods_MAXBase_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MAXBase_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		8FE79780F1754A493F271D97 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		8FE79780F1754A493F271D97 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		9B4F15196EE42667BB7B8BC8 /* Pods_MAXBase_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MAXBase_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9C0851844C6CB6FE4AB8EFCB /* MAXBase.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MAXBase.podspec; path = ../MAXBase.podspec; sourceTree = "<group>"; };
-		B16E8C56DB02799DD8D1C3EA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		9C0851844C6CB6FE4AB8EFCB /* MAXBase.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MAXBase.podspec; path = ../MAXBase.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B16E8C56DB02799DD8D1C3EA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		B1F6275C4AFA5C926FFD3CCA /* Pods-MAXBase_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MAXBase_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MAXBase_Tests/Pods-MAXBase_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

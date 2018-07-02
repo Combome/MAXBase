@@ -1,0 +1,6 @@
+framework module MAXBase {
+  umbrella header "MAXBase-umbrella.h"
+
+  export *
+  module * { export * }
+}

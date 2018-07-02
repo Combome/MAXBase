@@ -1,0 +1,22 @@
+{
+  "name": "MAXBase",
+  "version": "0.1.0",
+  "summary": "A short description of MAXBase.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Combome/MAXBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mac": "1065074032@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Combome/MAXBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MAXBase/Classes/**/*"
+}

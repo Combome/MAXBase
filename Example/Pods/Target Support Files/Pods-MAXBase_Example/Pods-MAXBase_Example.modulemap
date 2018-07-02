@@ -1,0 +1,6 @@
+framework module Pods_MAXBase_Example {
+  umbrella header "Pods-MAXBase_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
